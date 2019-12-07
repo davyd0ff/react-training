@@ -1,0 +1,9 @@
+.yellow {
+    background-color: yellow;
+    color: black;
+}
+
+.default {
+    background-color: #fff;
+    color: blue;
+}
